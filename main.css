@@ -1,0 +1,30 @@
+﻿
+/*<div>Icons made by <a href="https://www.flaticon.com/authors/nikita-golubev" title="car">car</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>*/
+body {
+    margin: 0;
+
+}
+div{
+    height: 100vh;
+    background: url('png/taxi.png') no-repeat, /*1*/
+        url('png/suv.png') no-repeat, /*2*/
+        url('png/car.png') no-repeat,/*3*/
+        url('png/ranger.png') no-repeat,/*4*/
+        url('png/van-2.png') no-repeat,/*5*/
+        url('png/van-3.png') no-repeat,/*6*/
+        url('png/police-car.png') no-repeat,/*7*/
+        url('png/work.png') no-repeat,/*8*/
+        url('png/car-5.png') no-repeat,/*9*/
+        url('png/road4.jpg') repeat;/*10*/
+    
+    background-size: auto 10%, auto 10%, auto 10%, auto 10%, auto 8%, auto 8%, auto 10%, auto 10%, auto 10%, auto 35%;
+    background-position: top 18% left 5%, top 28% left 5%, top 38% left 5%, top 48% left 5%, top 58% left 5%,
+         top 65% left 5%, top 78% left -60%, top 5% left 5%, top 95% left 5%, top 0% left 0%; 
+    transition: background-position 10s ease;
+      }
+
+div:hover{
+    background-position: top 15% left 55%, top 25% left 70%, top 35% left 40%, top 45% left 60%, top 55% left 45%,
+         top 65% left 35%, top 78% left 100%, top 1% left 25%, top 92% left 80%, top 0% left 25000%; 
+
+}
