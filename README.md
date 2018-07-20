@@ -1,2 +1,2 @@
-# Simple animation made in CSS#
+# #Simple animation made in CSS#
 https://damiancwykiel.github.io/CSSGAME/
