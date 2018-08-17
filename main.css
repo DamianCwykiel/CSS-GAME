@@ -15,7 +15,7 @@ div{
         url('png/police-car.png') no-repeat,/*7*/
         url('png/work.png') no-repeat,/*8*/
         url('png/car-5.png') no-repeat,/*9*/
-        url('png/road4.jpg') repeat;/*10*/
+        url('png/road4.jpg') repeat center center fixed;/*10*/
     
     background-size: auto 10%, auto 10%, auto 10%, auto 10%, auto 8%, auto 8%, auto 10%, auto 10%, auto 10%, auto 35%;
     background-position: top 18% left 5%, top 28% left 5%, top 38% left 5%, top 48% left 5%, top 58% left 5%,
