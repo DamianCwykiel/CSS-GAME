@@ -1,2 +1,2 @@
 # CSSGAME# 
-* https://damiancwykiel.github.io/CSSGAME/*
+* https://damiancwykiel.github.io/CSSGAME/
